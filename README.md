@@ -14,7 +14,7 @@ https://repl.it/@LAKSHMISOWJANYA/GlossyBoldWifi#index.html
 # YouTube link: 
 https://youtu.be/GjsKdNFGu98  
 
-# link of various pages of our project:  
+# link of various pages of our webpage:  
 1.Main page: https://glossyboldwifi.bhavarajuvenkat.repl.co
 2: https://glossyboldwifi.bhavarajuvenkat.repl.co/devotional.html 
 3:https://glossyboldwifi.bhavarajuvenkat.repl.co/waterbodies.html
